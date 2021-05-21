@@ -19,10 +19,10 @@
       </div>
       <nav class="hedr_nv_p">
         <ul class="he_nav_ul">
-          <li class="he_nav_li he_sub_nav_li upp" id="abUs"><a href="#">despre noi</a></li>
-          <li class="he_nav_li he_sub_nav_li upp" id="prtf"><a href="#">portofoliu</a></li>
-          <li class="he_nav_li he_sub_nav_li upp" id="weDo"><a href="#">ce facem</a></li>
-          <li class="he_nav_li he_sub_nav_li upp" id="cont"><a href="#">contacteaza-ne</a></li>
+          <li class="he_nav_li he_sub_nav_li upp" id="abUs"><span >about us</span></li>
+          <li class="he_nav_li he_sub_nav_li upp" id="prtf"><span >portfolio</span></li>
+          <li class="he_nav_li he_sub_nav_li upp" id="weDo"><span >what we do</span></li>
+          <li class="he_nav_li he_sub_nav_li upp" id="cont"><span >contact us</span></li>
         </ul>
       </nav>
     </header>
@@ -31,10 +31,7 @@
         <div class="inside_mn">
           <h1>We build for you</h1>
           <p>
-            Inventam, construim, inovam!<br>
-            Acoperim o arie extinsa in domeniul compatibilitatii programelor noastre.
-            Oferim servicii inovative pentru pagini web, site-uri, aplicatii web si de mobil, programe pentru desktop sau mac.<br>
-            Construim aplicatii pentru platforme IOS, Android si Windows.
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam fuga obcaecati culpa recusandae minus nam corporis cum totam nostrum, libero nemo quaerat numquam aspernatur placeat asperiores necessitatibus. Dolor, laborum similique.
           </p>
         </div>
         <div class="prg_lng phone2">
@@ -263,14 +260,13 @@
         <div class="pass_inv con_t_d" id="m1">
           <div class="pass_info">
             <div class="pass_invAh">
-              <h1>Pasiune pentru<br><span>inovare</span></h1><br>
+              <h1>Passion for<br><span>innovation</span></h1><br>
             </div>
             <div class="pass_invAh2">
               <p>
-                Folosim cea mai noua tehnologie pentru a fi mereu in tendinte. <br>
-                Utilizam cele mai noi limbaje de programare pentru a reda utilizatorului, continutul programului in cel mai bun mod posibil.
-               </p>
-               <button class="b_utt_on apsgdh __ajsH upp" type="button" name="button">incepe un proiect</button>
+               Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore alias error enim sint nulla vitae consequatur, hic repellat? Optio qui voluptatum, odit natus dolore laboriosam at eligendi quaerat praesentium dicta!
+              </p>
+               <button class="b_utt_on apsgdh __ajsH upp" type="button" name="button">Start a project</button>
             </div>
           </div>
           <div class="pass_vect phone2">
@@ -285,7 +281,7 @@
         </div>
         <div class="portofolio con_t_d" id="m2">
           <div class="pass_invAh">
-            <h1>Portofoliul <span>nostru</span></h1><br>
+            <h1>Our <span>portfolio</span></h1><br>
           </div>
           <div class="prj">
             <button class="prev_project" id="prew" type="button" name="button">&#8249;</button>
@@ -295,7 +291,7 @@
         </div>
         <div class="prog_lang con_t_d" id="m3">
           <div class="pass_invAh">
-            <h1>Ce tehnologie<br><span>folosim?</span></h1><br>
+            <h1>Tehnology <br><span>we use</span></h1><br>
           </div>
           <div class="prg_lm_a">
             <div class="lnGh">
@@ -318,10 +314,10 @@
             </div>
           </div>
         </div>
-
+                <!--
         <div class="portofolio con_t_d" id="m4">
           <div class="pass_invAh">
-            <h1>Fa cunostinta<br><span>cu noi</span></h1><br>
+            <h1>Meet <br><span>the team</span></h1><br>
           </div>
           <div class="meet_tm">
             <div class="persoana per">
@@ -330,13 +326,16 @@
                   <div class="pers_front_body_im">
                     <img src="img/pers/timi.jpg">
                   </div>
+                  <div class="pers_front_body_im2">
+
+                  </div>
                   <div class="pers_front_bdy_infobbl"></div>
                   <div class="pers_front_bdy_info">
                     <span class="pers_front_bdy_info_nm">Mot Timotei Fabian</span>
-                    <span class="pers_front_bdy_info_pos">CEO/Co Founder</span>
+                    <span class="pers_front_bdy_info_pos">Full-Stack Developer</span>
                   </div>
                 </div>
-                <ul class="pers_front_footer1">
+                 <ul class="pers_front_footer1">
                   <li id="pers_fb1" class="pers_front_footer_li1"><img src="img/facebook.png" alt=""> </li>
                   <li id="pers_tw1" class="pers_front_footer_li1"><img src="img/twitter.png" alt=""> </li>
                   <li id="pers_in1" class="pers_front_footer_li1"><img src="img/linkedin.png" alt=""> </li>
@@ -344,9 +343,11 @@
                   <li id="pers_tt1" class="pers_front_footer_li1"><img src="img/twitch.png" alt=""> </li>
                 </ul>
               </div>
-              <div class="pers_back"></div>
+              
           </div>
         </div>
+
+                  -->
       </div>
       <div id="toTop" class="pos_fi-xed">
         <span class="_arrow">
